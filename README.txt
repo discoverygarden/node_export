@@ -1,4 +1,3 @@
-$Id$
 
 Node Export README
 
