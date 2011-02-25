@@ -1,4 +1,3 @@
-/* $Id$ */
 
 README file for the export module for Drupal 5.x.
 
