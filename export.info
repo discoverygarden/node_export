@@ -1,4 +1,3 @@
-; $Id$
 ; $Name$
 name = Export module
 description = "Allows users to export a node and the import into another Drupal installation."
